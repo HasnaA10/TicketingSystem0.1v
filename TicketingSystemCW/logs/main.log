@@ -1,0 +1,111 @@
+This is an info log.
+This is an error log.
+{"@timestamp":"2024-11-30T19:15:28.755Z","ecs.version":"1.2.0","log.level":"INFO","message":"This is an info log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T19:15:28.757Z","ecs.version":"1.2.0","log.level":"ERROR","message":"This is an error log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T19:16:57.987Z","ecs.version":"1.2.0","log.level":"INFO","message":"This is an info log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T19:16:57.989Z","ecs.version":"1.2.0","log.level":"ERROR","message":"This is an error log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T19:22:34.276Z","ecs.version":"1.2.0","log.level":"INFO","message":"This is an info log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T19:22:34.278Z","ecs.version":"1.2.0","log.level":"ERROR","message":"This is an error log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T20:21:58.389Z","ecs.version":"1.2.0","log.level":"INFO","message":"This is an info log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T20:21:58.393Z","ecs.version":"1.2.0","log.level":"ERROR","message":"This is an error log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T20:33:05.407Z","ecs.version":"1.2.0","log.level":"INFO","message":"This is an info log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T20:33:05.409Z","ecs.version":"1.2.0","log.level":"ERROR","message":"This is an error log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T20:33:05.409Z","ecs.version":"1.2.0","log.level":"INFO","message":"Ticketing System starting...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T20:33:31.299Z","ecs.version":"1.2.0","log.level":"INFO","message":"Ticketing System starting...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T20:34:14.097Z","ecs.version":"1.2.0","log.level":"INFO","message":"Ticketing System starting...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T20:35:14.157Z","ecs.version":"1.2.0","log.level":"INFO","message":"This is an info log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T20:35:14.160Z","ecs.version":"1.2.0","log.level":"ERROR","message":"This is an error log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T20:37:22.275Z","ecs.version":"1.2.0","log.level":"INFO","message":"This is an info log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-11-30T20:37:22.277Z","ecs.version":"1.2.0","log.level":"ERROR","message":"This is an error log.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T04:29:19.194Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T04:29:24.013Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T04:33:02.018Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T04:33:02.025Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:23:20.745Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:23:23.022Z","ecs.version":"1.2.0","log.level":"ERROR","message":"An error occurred while processing.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:23:23.022Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:24:17.858Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:24:19.236Z","ecs.version":"1.2.0","log.level":"ERROR","message":"An error occurred while processing.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:24:19.236Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:25:38.826Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:27:06.382Z","ecs.version":"1.2.0","log.level":"ERROR","message":"An error occurred while processing.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:27:06.387Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:27:21.907Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:29:45.273Z","ecs.version":"1.2.0","log.level":"ERROR","message":"An error occurred while processing.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:29:45.276Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:29:59.704Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:30:02.623Z","ecs.version":"1.2.0","log.level":"ERROR","message":"An error occurred while processing.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:30:02.623Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:33:57.986Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T10:33:59.485Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T11:04:07.121Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T11:04:07.121Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T12:47:23.584Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T12:47:26.418Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T12:47:30.060Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-01T12:47:30.068Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T17:41:06.322Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T17:41:11.022Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T17:41:14.337Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T17:41:14.347Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T17:42:11.749Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T17:42:14.780Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T17:42:17.132Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T17:42:17.143Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T17:56:24.172Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T17:56:25.555Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T17:56:27.559Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T17:56:27.569Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:30:28.064Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:30:29.511Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:30:32.101Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:30:32.115Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:32:05.138Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:32:09.808Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:32:10.774Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:32:10.785Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:33:42.544Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:33:43.564Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:33:44.293Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:33:44.300Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:42:33.828Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:42:34.822Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:42:35.844Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-02T18:42:35.853Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:49:40.598Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:49:46.888Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:49:48.076Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:52:54.680Z","ecs.version":"1.2.0","log.level":"INFO","message":"Process Completed Successfully.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:53:08.330Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:53:09.262Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:53:10.029Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:55:48.258Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:55:51.670Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:55:52.993Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:56:39.467Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:56:44.047Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T02:56:45.958Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T03:19:24.467Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T03:19:26.874Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T03:19:27.978Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T03:34:52.878Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T03:34:55.075Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T03:34:57.071Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T03:48:01.864Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T03:48:07.685Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T03:48:09.376Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:00:52.384Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:00:53.693Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:00:55.027Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:07:25.573Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:07:26.141Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:07:28.318Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:08:15.824Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:08:17.317Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:08:20.327Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:09:15.016Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:09:16.491Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:09:19.717Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:53:59.280Z","ecs.version":"1.2.0","log.level":"INFO","message":"Processing...","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:54:00.305Z","ecs.version":"1.2.0","log.level":"INFO","message":"Vendors Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
+{"@timestamp":"2024-12-03T17:54:01.475Z","ecs.version":"1.2.0","log.level":"INFO","message":"Customers Created.","process.thread.name":"main","log.logger":"TicketingSystem"}
